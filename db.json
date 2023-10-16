@@ -1,16 +1,25 @@
 {
   "recibos": [
     {
-      "id": 1,
-      "title": "recibo 1"
+      "id": "2hgtd4lsf",
+      "nombre": "Sergio",
+      "apellido": "Leguizamon",
+      "categoria": "Farmaceutico",
+      "bruto": 254444.77
     },
     {
-      "id": 2,
-      "title": "Post 2"
+      "id": "2hieniphe",
+      "nombre": "Diego",
+      "apellido": "Leguizamon",
+      "categoria": "Cadete",
+      "bruto": 189665.77
     },
     {
       "id": 3,
-      "title": "Post 3"
+      "nombre": "nombre",
+      "apellido": "Apellido",
+      "categoria": "Personal de Gestion",
+      "bruto": 300000
     }
   ],
   "profile": {
